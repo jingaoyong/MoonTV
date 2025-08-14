@@ -2,7 +2,7 @@
   "cache_time": 7200,
   "api_site": {
     "jszy": {
-      "api": "https://jszyapi.com/api.php/provide/vod/from/jsyun/at/json",
+      "api": "https://jszyapi.com/api.php/provide/vod",
       "name": "极速资源",
     },
     "dyttzy": {
